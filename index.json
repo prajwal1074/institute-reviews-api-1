@@ -29,4 +29,14 @@
     "rating":"4.5/5",
     "date":"30/09/2022"
     }
+     {
+    "id":4,
+    "institute_name": "Vidya Mandir Classes jammu",
+    "location":"Jammu",
+    "yourDescription":"Student",
+    "about":"Competitive",
+    "review":"Great isntitute for 11-12th coaching",
+    "rating":"4.7/5",
+    "date":"30/09/2022"
+    }
 ]
