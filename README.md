@@ -8,7 +8,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Showndarya/Hacktoberfest.svg)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Showndarya/Hacktoberfest.svg)](http://isitmaintained.com/project/Showndarya/Hacktoberfest "Average time to resolve an issue")
 
-# College Reviewer :api:
+# College Reviewer:
 
 An exhaustive collection of reviwes given students, faculty, visitor as json files for easy access.
 
@@ -32,21 +32,18 @@ An exhaustive collection of reviwes given students, faculty, visitor as json fil
 
 ## Example file 🎃
 path: `B/Beautiful.json` (first letter needs to be capitalized)
-```json
+```json 
 {
-    "word": "Beautiful",
-    "definitions": [
-        "pleasing the senses or mind aesthetically",
-        "of a very high standard; excellent"
-    ],
-    "parts-of-speech": "Adjective"
+"id":0,
+"college_name": "walchand college of engineering, sangli",
+"location":"india",
+"your description":"student",
+"about":"academic",
+"review":"Best college for Engineering",
+"rating":"4.0/5",
+"date":"29/09/2022"
 }
 ```
-
-## CLI for audio playback of words (Version 1)
-
-[SurpriseMe](https://github.com/Showndarya/Hacktoberfest/tree/master/Surprise_Me_Text_To_Audio_CLI) is a command line tool for providing audio playback to random words
-
 
 ## Hall of Fame :fire:
 
