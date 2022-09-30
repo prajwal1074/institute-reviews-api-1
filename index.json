@@ -49,5 +49,15 @@
     "review":"Great isntitute for 11-12th coaching",
     "rating":"4.7/5",
     "date":"30/09/2022"
-    }
+    },
+     {
+    "id":6,
+    "institute_name": "AM college",
+    "location":"india",
+    "yourDescription":"student",
+    "about":"academic",
+    "review":"Average college in locality",
+    "rating":"3.0/5",
+    "date":"30/09/2022"
+    },
 ]
