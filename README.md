@@ -15,7 +15,7 @@ An exhaustive collection of reviwes given students, faculty, visitor as json fil
 
 ## How to contribute 
 
-> [Refer the template provided below to add your word](https://github.com/Showndarya/Hacktoberfest/blob/master/CONTRIBUTING.md)
+> [Refer the template provided below to add your word](https://github.com/gdscwce/college-reviews-api/blob/master/CONTRIBUTING.md)
 
 
 ## Create your first pull request :sunglasses:
