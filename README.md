@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Shamshadz/Hacktoberfest.svg?branch=master)](https://travis-ci.org/Shamshadz/Hacktoberfest)
+<!-- [![Build Status](https://travis-ci.org/Shamshadz/Hacktoberfest.svg?branch=master)](https://travis-ci.org/Shamshadz/Hacktoberfest)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)
 ![GitHub](https://img.shields.io/github/license/Shamshadz/Hacktoberfest.svg)
 ![GitHub forks](https://img.shields.io/github/forks/Shamshadz/Hacktoberfest.svg)
@@ -6,7 +6,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Shamshadz/Hacktoberfest.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/Shamshadz/Hacktoberfest.svg)
 ![GitHub top language](https://img.shields.io/github/languages/top/Shamshadz/Hacktoberfest.svg)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Shamshadz/Hacktoberfest.svg)](http://isitmaintained.com/project/Shamshadz/Hacktoberfest "Average time to resolve an issue")
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Shamshadz/Hacktoberfest.svg)](http://isitmaintained.com/project/Shamshadz/Hacktoberfest "Average time to resolve an issue") -->
 
 # College Reviewer:
 
@@ -31,7 +31,7 @@ An exhaustive collection of reviwes given students, faculty, visitor as json fil
 > [Create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 ## Example file 🎃
-path: `B/Beautiful.json` (first letter needs to be capitalized)
+path: `index.json`
 ```json 
 {
 "id":0,
