@@ -29,4 +29,14 @@
     "rating":"4.5/5",
     "date":"30/09/2022"
     }
+    {
+    "id":4,
+    "institute_name": "New Horizon Public School",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Faculty",
+    "review":"Amazing & supportive faculties",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
+    }
 ]
