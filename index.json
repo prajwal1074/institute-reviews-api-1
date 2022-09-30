@@ -1,12 +1,22 @@
 [   
     {
-    "id":0,
+    "id":1,
     "institute_name": "walchand college of engineering, sangli",
     "location":"india",
-    "your description":"student",
+    "yourDescription":"student",
     "about":"academic",
     "review":"Best college for Engineering",
     "rating":"4.0/5",
     "date":"29/09/2022"
+    },
+    {
+    "id":2,
+    "institute_name": "Dr. DY Patil Institute of Technology",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Great Infra and Opportunities",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
     }
 ]
