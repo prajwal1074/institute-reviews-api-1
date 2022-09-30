@@ -12,45 +12,38 @@ id: give it 0
 ```
 
 ``` 
-college_name: Name of college your are writing review for
+institute_name: Name of institute your are writing review for.
 ```
 ``` 
-location: In which country college is loacated in
-"your description":"student",
-"about":"academic",
-"review":"Best college for Engineering",
-"rating":"4.0/5",
-"date":"29/09/2022"
-
+location: In which country institute is loacated in.
+```
+```
+your description: Write student if are currently studying at same institute or you had studied at same institute, otherwise "Visitor" if you know institute or visited it.
+```
+```
+about: about which you are giving review, Eg: academic , placement, faculty, infrastructure, etc.
+```
+```
+review: write your review about institute in here.
+```
+```
+rating: give rating out of 5.
+```
+```
+date: enter date at time of writing review Eg. "29/09/2022" .
 ```
 
-
-## Example file (Word with one definition) 
-
-```json
-{
-    "word": "your-word",
-    "definitions": [
-        "definition"
-    ],
-    "parts-of-speech": "parts-of-speeech-of-your-word"
-}
-```
-
-## Example file (Word with more than one definition) 
+## Example file
 
 ```json
 {
   "id":0,
-  "college_name": "walchand college of engineering, sangli",
-  "location":"india",
-  "your description":"student",
-  "about":"academic",
-  "review":"Best college for Engineering",
-  "rating":"4.0/5",
-  "date":"29/09/2022"
+  "institute_name": "walchand college of engineering, sangli",
+  "location": "india",
+  "your description": "student",
+  "about": "academic",
+  "review": "Best college for Engineering",
+  "rating": "4.0/5",
+  "date": "29/09/2022"
 }
 ```
-## Addressing an Issue
-
-If the word you want to add is requested in an issue, leave a comment on the issue claiming that you are adding that word. This minimizes conflicts and time wasting.
