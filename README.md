@@ -8,14 +8,14 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Shamshadz/Hacktoberfest.svg)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/Shamshadz/Hacktoberfest.svg)](http://isitmaintained.com/project/Shamshadz/Hacktoberfest "Average time to resolve an issue") -->
 
-# College Reviewer:
+# Institute Reviewer:
 
 An exhaustive collection of reviwes given students, faculty, visitor as json files for easy access.
 
 
 ## How to contribute 
 
-> [Refer the template provided below to add your word](https://github.com/gdscwce/college-reviews-api/blob/master/CONTRIBUTING.md)
+> [Refer the template provided below to add your word](https://github.com/gdscwce/institute-reviews-api/blob/master/CONTRIBUTING.md)
 
 
 ## Create your first pull request :sunglasses:
@@ -35,7 +35,7 @@ path: `index.json`
 ```json 
 {
 "id":0,
-"college_name": "walchand college of engineering, sangli",
+"institute_name": "walchand college of engineering, sangli",
 "location":"india",
 "your description":"student",
 "about":"academic",
@@ -44,7 +44,3 @@ path: `index.json`
 "date":"29/09/2022"
 }
 ```
-
-## Hall of Fame :fire:
-
-Check out the [Hall of Fame](https://Shamshadz.github.io/Hacktoberfest/Contributors_Page_Source/) for a list of contributors with a minimum of one commit with their gravatar. To know more about a contributor, click on the gravatar to go to their github profile.
