@@ -18,5 +18,15 @@
     "review":"Great Infra and Opportunities",
     "rating":"4.5/5",
     "date":"30/09/2022"
+    },
+    {
+    "id":3,
+    "institute_name": "Pimpri Chichwad College of Engineering",
+    "location":"India",
+    "yourDescription":"Student",
+    "about":"Academic",
+    "review":"Great Infra and Opportunities with amazing placements",
+    "rating":"4.5/5",
+    "date":"30/09/2022"
     }
 ]
