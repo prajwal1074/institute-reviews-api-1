@@ -1,33 +1,12 @@
 [   
     {
-        "id":0,
-        "college_name": "Walchand college of Engineering, Sangli",
-        "review":[
-                    {
-                        "id":0,
-                        "description":"student",
-                        "about":"academic",
-                        "comment":"Best college for Engineering",
-                        "rating":"4.5",
-                        "date":"29/09/2022"
-                    },
-                    {
-                        "id":1,
-                        "description":"student",
-                        "about":"placement",
-                        "comment":"Best college for Placement",
-                        "rating":"4.5",
-                        "date":"29/09/2022"
-                    },
-                    {
-                        "id":1,
-                        "description":"student",
-                        "about":"placement",
-                        "comment":"Best college for Placement",
-                        "rating":"4.5",
-                        "date":"29/09/2022"
-                    }
-
-                ]
+    "id":0,
+    "college_name": "walchand college of engineering, sangli",
+    "location":"india",
+    "description":"student",
+    "about":"academic",
+    "review":"Best college for Engineering",
+    "rating":"4.5",
+    "date":"29/09/2022"
     }
 ]
